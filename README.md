@@ -1,4 +1,3 @@
-# RealSpeakFlow
 
 # 🎙️ RealSpeakFlow – Tradutor de Voz em Tempo Real
 
@@ -126,6 +125,7 @@ Reprodutor de áudio (VLC ou outro configurado)
 
 
 *Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.*
+
 
 
 

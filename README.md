@@ -106,7 +106,9 @@ Traduzir para inglês
 
 Falar o texto traduzido com voz realista
 
-🧪 Requisitos
+---
+
+ Requisitos
 Node.js 18+
 
 ffmpeg instalado e adicionado ao PATH
@@ -126,6 +128,7 @@ Reprodutor de áudio (VLC ou outro configurado)
 
 
 *Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.*
+
 
 
 

@@ -41,8 +41,11 @@
 ## 📂 Estrutura de Pastas
 
 RealSpeakFlow/
+
 ├── README.md
+
 ├── .env.example
+
 ├── package.json
 ├── server.js
 ├── recorder.js
@@ -60,8 +63,7 @@ RealSpeakFlow/
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/RealSpeakFlow.git
-   cd RealSpeakFlow
+   https://github.com/vinicius030303/RealSpeakFlow
 
 
 Instale as dependências
@@ -94,5 +96,6 @@ Acesse: http://localhost:5000/start
 🔗 [LinkedIn](https://linkedin.com/in/vinicius-front)
 
 ---
+
 
 *Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.*

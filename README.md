@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/RealSpeakFlow-banner.png" alt="RealSpeakFlow Banner" width="100%" />
+  <img src="./public/RealSpeakFlow-banner.png" alt="RealSpeakFlow Banner" width="100%" />
 </p>
 
 # 🎙️ RealSpeakFlow – Tradutor de Voz em Tempo Real
@@ -107,5 +107,6 @@ Acesse: http://localhost:5000/start
 
 
 *Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.*
+
 
 

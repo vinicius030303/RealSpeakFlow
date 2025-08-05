@@ -47,13 +47,21 @@ RealSpeakFlow/
 ├── .env.example
 
 ├── package.json
+
 ├── server.js
+
 ├── recorder.js
+
 ├── whisper-client.js
+
 ├── translator.js
+
 ├── tts.js
+
 ├── audio/ 
+
 ├── public/
+
 │ └── RealSpeakFlow-banner.png 
 
 
@@ -99,3 +107,4 @@ Acesse: http://localhost:5000/start
 
 
 *Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.*
+

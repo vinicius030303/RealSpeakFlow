@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./public/RealSpeakFlow-banner.png" alt="RealSpeakFlow Banner" width="100%" />
-</p>
+# RealSpeakFlow
+
+<img src="./public/RealSpeakFlow-banner.png" alt="RealSpeakFlow Banner" width="100%" />
 
 # 🎙️ RealSpeakFlow – Tradutor de Voz em Tempo Real
 
@@ -96,6 +96,25 @@ npm start
 Acesse: http://localhost:5000/start
 
 
+Toda vez que acessar essa rota, ele irá:
+
+Gravar sua voz (por 5 segundos)
+
+Transcrever para texto
+
+Traduzir para inglês
+
+Falar o texto traduzido com voz realista
+
+🧪 Requisitos
+Node.js 18+
+
+ffmpeg instalado e adicionado ao PATH
+
+Microfone funcional conectado ao PC
+
+Reprodutor de áudio (VLC ou outro configurado)
+
 ## 👨‍💻 Autor
 
 **Vinicius S.**  
@@ -107,6 +126,7 @@ Acesse: http://localhost:5000/start
 
 
 *Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.*
+
 
 
 

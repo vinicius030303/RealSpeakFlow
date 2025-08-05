@@ -1,7 +1,5 @@
 # RealSpeakFlow
 
-<img src="./public/RealSpeakFlow-banner.png" alt="RealSpeakFlow Banner" width="100%" />
-
 # 🎙️ RealSpeakFlow – Tradutor de Voz em Tempo Real
 
 **RealSpeakFlow** é um sistema completo de tradução de voz em tempo real. Com ele, você fala em **português** e ouve automaticamente a tradução em **inglês** com voz natural — ideal para entrevistas, viagens, apresentações e mais.
@@ -128,6 +126,7 @@ Reprodutor de áudio (VLC ou outro configurado)
 
 
 *Tenho disciplina, autonomia, foco em solução e total interesse em crescer com projetos reais.*
+
 
 
 
